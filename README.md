@@ -2,7 +2,7 @@
 
 **Software engineering student at [42 Nice](https://42nice.fr/) — backend & AI.**
 
-Top of my cohort at 42, on the AI/Python core curriculum. I build systems that are rigorous under the hood: real-time servers, concurrent programs, and AI tooling I can measure. Mostly **Python**, **Rust** and **C**, with some full-stack.
+Top of my cohort at 42, on the core curriculum. I build systems that are rigorous under the hood: real-time servers, concurrent programs, and AI tooling I can measure. Mostly **Python**, **Rust** and **C**, with some full-stack.
 
 Open to a software / AI internship or apprenticeship (Nice area & remote).
 
