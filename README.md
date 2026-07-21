@@ -1,10 +1,10 @@
 # Jules Mattioni
 
-**Software engineering student at [42 Nice](https://42nice.fr/) — backend & AI.**
+**Software engineering student at [42 Nice](https://42nice.fr/) — System & AI.**
 
 Top of my cohort at 42, on the common core curriculum. I build systems that are rigorous: real-time servers, concurrent programs, and AI tooling I can measure. Mostly **Python**, **Rust** and **C**, with some full-stack.
 
-Open to a software / AI internship or apprenticeship (Nice area & remote).
+Open to a software / AI internship or apprenticeship.
 
 ---
 
@@ -21,7 +21,7 @@ Open to a software / AI internship or apprenticeship (Nice area & remote).
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Focus areas:** backend & systems programming · applied AI (LLMs, RAG, retrieval, evaluation) · concurrency
+**Focus areas:** fullstack & systems programming · applied AI (LLMs, RAG, retrieval, evaluation) · concurrency
 
 ---
 
