@@ -30,7 +30,7 @@ Open to a software / AI internship or apprenticeship.
 | Project | What it is |
 |---|---|
 | **[transcendence](https://github.com/JulesMattioni/transcendence)** *(work in progress)* | Multi-tenant document vault with a built-in RAG assistant — 8 containerised FastAPI services behind an Nginx + ModSecurity gateway, PostgreSQL/pgvector, React frontend. |
-| **[agent_smith](https://github.com/JulesMattioni/agent_smith)** | A benchmark harness (built from scratch in Python) for evaluating LLMs on code-generation tasks — SWE-bench & MBPP — with reproducible, measured results. |
+| **[agent_smith](https://github.com/JulesMattioni/agent_smith)** | Autonomous code agent built entirely from scratch (agent frameworks prohibited): a Thought → Code → Observation loop where the LLM writes and executes real Python to solve programming tasks, using code-based tool calling instead of JSON. |
 | **[rag_against_the_machine](https://github.com/JulesMattioni/rag_against_the_machine)** | Hybrid retrieval-augmented generation: dense embeddings + BM25 over ChromaDB, with measured retrieval metrics (Recall@k) and documented trade-offs. |
 | **[the_answer_protocol](https://github.com/JulesMattioni/the_answer_protocol)** | Real-time multiplayer server & clients in Rust — custom TCP protocol, async concurrency with Tokio, and a GUI client built with the Bevy engine (ECS). |
 | **[codexion](https://github.com/JulesMattioni/codexion)** | Concurrent systems in C — dining philosophers with pthreads, deadlock prevention, and a custom scheduler. |
