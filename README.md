@@ -2,7 +2,7 @@
 
 **Software engineering student at [42 Nice](https://42nice.fr/) — System & AI.**
 
-Top of my cohort at 42, on the common core curriculum. I build systems that are rigorous: real-time servers, concurrent programs, and AI tooling I can measure. Mostly **Python**, **Rust** and **C**, with some full-stack.
+Top of my cohort at 42, on the common core curriculum. I build systems that are rigorous: real-time servers, concurrent programs, and AI tooling I can measure.
 
 Open to a software / AI internship or apprenticeship.
 
